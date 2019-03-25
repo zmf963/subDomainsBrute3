@@ -1,3 +1,7 @@
+# subDomainsBrute3
+
+简单的将lijiejie/subDomainsBrute修改为了支持Python3的版本。
+
 subDomainsBrute 1.1
 ======
 
