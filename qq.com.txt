@@ -1,0 +1,914 @@
+llk.qq.com                    	101.226.129.142
+w8.qq.com                     	120.204.10.176
+ui.qq.com                     	182.254.4.235, 182.254.78.33
+en.qq.com                     	111.30.144.14
+best.qq.com                   	182.254.106.31
+living.qq.com                 	182.254.106.31
+my.qq.com                     	183.232.91.110
+doctor.qq.com                 	111.30.137.24, 111.30.144.106
+platform.qq.com               	100.116.48.39
+dui.vip.qq.com                	183.232.91.110
+lvyou.qq.com                  	0.0.0.1
+3g.qq.com                     	120.204.10.176
+114.qq.com                    	182.254.106.31
+it.qq.com                     	111.30.144.71
+area.qq.com                   	0.0.0.1
+net.qq.com                    	0.0.0.1
+rdm.qq.com                    	111.30.137.24, 111.30.144.106
+hr.qq.com                     	183.3.226.68
+kb.qq.com                     	111.30.132.101
+p.qq.com                      	121.51.142.93
+cms.qq.com                    	121.51.130.170
+app.qq.com                    	120.198.199.170
+doc.qq.com                    	111.30.144.86, 111.30.144.87
+www.qq.com                    	111.30.144.71
+vip.qq.com                    	182.254.106.26
+108.qq.com                    	111.13.140.89
+angrybirds.qq.com             	0.0.0.1
+registry.qq.com               	0.0.0.1
+sk.qq.com                     	0.0.0.1
+brain.qq.com                  	0.0.0.1
+ban.qq.com                    	0.0.0.1
+d3.qq.com                     	0.0.0.1
+x2.tc.qq.com                  	111.13.140.89
+nn.qq.com                     	0.0.0.1
+x2.tcdn.qq.com                	111.13.140.89
+hera.qq.com                   	121.51.36.103
+dcloud.qq.com                 	182.254.4.235, 182.254.78.33
+analytics.qq.com              	0.0.0.1
+in.qq.com                     	0.0.0.1
+ru.qq.com                     	111.30.144.71
+money.qq.com                  	111.30.144.71
+pt.qq.com                     	0.0.0.1
+2008.qq.com                   	111.30.132.101
+pic.qq.com                    	111.30.144.86, 111.30.144.87
+testing.qq.com                	0.0.0.1
+0.qq.com                      	0.0.0.1
+hp.qq.com                     	111.13.140.91
+smc.qq.com                    	120.198.201.203
+fo.qq.com                     	111.13.140.89
+cg.qq.com                     	111.13.140.89
+s.plcloud.music.qq.com        	120.198.201.203
+ie.qq.com                     	111.30.137.24, 111.30.144.106
+tour.qq.com                   	0.0.0.1
+by.qq.com                     	111.13.140.91
+sun.qq.com                    	0.0.0.1
+avon.qq.com                   	0.0.0.1
+social.qq.com                 	121.51.36.68
+wx.qq.com                     	117.135.169.34, 117.144.242.33
+finance.qq.com                	111.30.144.71
+tuya.qq.com                   	0.0.0.1
+pm.qq.com                     	111.30.144.86, 111.30.144.87
+train.qq.com                  	0.0.0.1
+soft.qq.com                   	111.30.144.86, 111.30.144.87
+bi.qq.com                     	111.30.144.71
+mb.qq.com                     	111.30.137.24, 111.30.144.106
+dragon.qq.com                 	0.0.0.1
+sdc.qq.com                    	193.112.227.136
+wb.qq.com                     	112.60.0.156
+ah.qq.com                     	111.30.132.101
+dh.qq.com                     	111.13.140.89
+cam.qq.com                    	121.51.130.163
+shopping.qq.com               	111.13.140.91
+ups.qq.com                    	0.0.0.1
+one.qq.com                    	0.0.0.1
+pan.qq.com                    	0.0.0.1
+hotimg.tc.qq.com              	111.13.140.91
+sas.qq.com                    	121.51.142.126
+pg.qq.com                     	111.13.140.89
+ccs.qq.com                    	111.13.140.89
+400.qq.com                    	0.0.0.1
+bf.qq.com                     	0.0.0.1
+quiz.qq.com                   	0.0.0.1
+mv.qq.com                     	111.13.140.90, 111.47.223.228, 111.47.223.240, 111.47.224.182, 111.6.186.220, 111.6.189.183, 111.6.189.186, 111.62.242.61, 111.62.249.112, 111.62.249.114
+iq.qq.com                     	0.0.0.1
+ns.qq.com                     	0.0.0.1
+voice.qq.com                  	111.13.140.91
+bof.qq.com                    	183.232.125.183
+ace.qq.com                    	0.0.0.1
+hm.qq.com                     	121.51.131.206
+tm.qq.com                     	0.0.0.1
+docs.qq.com                   	111.30.144.122
+soc.qq.com                    	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+gt.qq.com                     	111.13.34.141
+msg.qq.com                    	0.0.0.1
+webservice.qq.com             	0.0.0.1
+fd.qq.com                     	0.0.0.1
+tl.qq.com                     	0.0.0.1
+gift.qq.com                   	0.0.0.1
+cap.qq.com                    	182.254.106.40
+tu.qq.com                     	121.51.130.163
+ice.qq.com                    	0.0.0.1
+rm.qq.com                     	0.0.0.1
+lk.qq.com                     	111.30.144.86, 111.30.144.87
+lx.qq.com                     	0.0.0.1
+next.qq.com                   	111.13.140.89
+bio.qq.com                    	0.0.0.1
+ag.qq.com                     	111.30.137.24, 111.30.144.106
+zf.qq.com                     	117.144.242.111
+t7.qq.com                     	111.13.140.89
+web.gw.qq.com.cloud.tc.qq.com 	111.13.140.89
+smtp.qq.com                   	183.232.93.144, 183.232.95.86
+marketing.qq.com              	0.0.0.1
+wx1.qq.com                    	117.135.169.34, 117.144.242.33
+holiday.qq.com                	111.30.132.101
+quan.qq.com                   	111.30.137.24, 111.30.144.106
+pix.qq.com                    	117.135.169.35
+sandbox.qq.com                	0.0.0.1
+mkt.qq.com                    	120.204.10.176
+lms.qq.com                    	0.0.0.1
+gb.qq.com                     	111.13.140.89
+zz.qq.com                     	0.0.0.1
+lp.qq.com                     	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+tianmei.qq.com.cloud.tc.qq.com	111.13.140.89
+zd.qq.com                     	111.30.137.24, 111.30.144.106
+matrix.qq.com                 	120.204.10.176
+jia.qq.com                    	183.66.97.161
+diy.qq.com                    	111.30.132.101
+wd.qq.com                     	111.30.144.86, 111.30.144.87
+mcp.qq.com                    	0.0.0.1
+smart.qq.com                  	120.204.10.176
+t1.qq.com                     	0.0.0.1
+fanli.qq.com                  	219.133.60.197
+moss.qq.com                   	121.51.141.76
+wk.qq.com                     	120.204.10.176
+opinion.qq.com                	0.0.0.1
+bx.qq.com                     	0.0.0.1
+review.qq.com                 	0.0.0.1
+pai.qq.com                    	0.0.0.1
+b2c.qq.com                    	121.51.141.112
+adc.qq.com                    	0.0.0.1
+cats.qq.com                   	0.0.0.1
+cai.qq.com                    	0.0.0.1
+nfs.qq.com                    	0.0.0.1
+vv.qq.com                     	0.0.0.1
+pack.qq.com                   	0.0.0.1
+tec.qq.com                    	0.0.0.1
+first.qq.com                  	0.0.0.1
+ddd.qq.com                    	0.0.0.1
+ting.qq.com                   	111.13.94.100, 111.13.94.40, 211.159.235.82, 221.179.183.61
+hlj.qq.com                    	111.30.132.101
+word.qq.com                   	0.0.0.1
+speech.qq.com                 	0.0.0.1
+qj.qq.com                     	111.13.140.89
+api.doctor.qq.com             	111.13.34.141
+service.doctor.qq.com         	183.232.95.165
+upload.doctor.qq.com          	0.0.0.1
+app.fo.qq.com                 	0.0.0.1
+ceshi.pg.qq.com               	182.254.44.172, 182.254.74.204
+log.pg.qq.com                 	117.135.175.171
+connect.ups.qq.com            	0.0.0.1
+api.vip.qq.com                	183.232.95.78
+bbs.vip.qq.com                	0.0.0.1
+pop.vip.qq.com                	111.30.144.11
+www.vip.qq.com                	183.232.91.110
+m.vip.qq.com                  	182.254.106.38
+proxy.vip.qq.com              	121.51.131.13
+bbs.qq.com                    	111.30.132.101
+music.qq.com                  	111.13.140.90
+es.qq.com                     	111.13.140.91
+local.qq.com                  	139.199.92.101
+h2.qq.com                     	111.13.140.89
+ac.qq.com                     	117.135.172.142
+music.tc.qq.com               	111.13.140.90
+info.qq.com                   	0.0.0.1
+http.qq.com                   	111.30.132.101
+h2.tc.qq.com                  	111.13.140.89
+h2.tcdn.qq.com                	111.13.140.89
+x2.tc.qq.com                  	111.13.140.89
+es.qq.com.cloud.tc.qq.com     	111.13.140.91
+music.tcdn.qq.com             	111.13.140.90, 111.47.223.228, 111.47.223.240, 111.47.224.182, 111.6.186.220, 111.6.189.183, 111.6.189.186, 111.62.242.61, 111.62.249.112, 111.62.249.114
+faq.qq.com                    	0.0.0.1
+ssd.tc.qq.com                 	111.13.140.90, 111.47.223.228, 111.47.223.240, 111.47.224.182, 111.6.186.220, 111.6.189.183, 111.6.189.186, 111.62.242.61, 111.62.249.112, 111.62.249.114
+p21.tcdn.qq.com               	111.13.140.91
+x2.tcdn.qq.com                	111.13.140.89
+alpha.qq.com                  	0.0.0.1
+life.qq.com                   	58.250.136.110
+sf.qq.com                     	120.204.10.176
+up.qq.com                     	111.13.140.89
+top.qq.com                    	0.0.0.1
+pb.qq.com                     	59.37.116.28
+ic.qq.com                     	111.30.137.24, 111.30.144.106
+vp.qq.com                     	121.51.8.39
+guid.qq.com                   	120.198.199.203
+wap.qq.com                    	120.204.10.176
+mim.qq.com                    	0.0.0.1
+developer.qq.com              	183.232.94.17
+ssd.tcdn.qq.com               	111.13.140.90
+panel.qq.com                  	111.30.144.71
+hotel.qq.com                  	183.232.88.155
+sa.qq.com                     	0.0.0.1
+wifi.qq.com                   	111.30.137.24, 111.30.144.106
+bd.qq.com                     	121.51.141.29
+account.qq.com                	183.192.202.175
+student.qq.com                	10.236.3.84
+52.qq.com                     	121.51.141.112
+mobile.qq.com                 	120.204.10.176
+cash.qq.com                   	0.0.0.1
+hi.qq.com                     	103.7.28.160
+kernel.qq.com                 	61.151.191.145
+r.qq.com                      	117.135.169.76
+emarketing.qq.com             	0.0.0.1
+sj.qq.com                     	111.13.34.141, 111.30.159.139
+9.qq.com                      	111.13.140.89
+desktop.qq.com                	111.30.137.24, 111.30.144.106
+7.qq.com                      	111.13.140.89
+bz.qq.com                     	111.30.132.101
+pc.qq.com                     	111.30.137.24, 111.30.144.106
+bg.qq.com                     	111.30.137.24, 111.30.144.106
+samsung.qq.com                	0.0.0.1
+front.qq.com                  	0.0.0.1
+im.qq.com                     	121.51.131.16
+cd.qq.com                     	111.30.144.71
+play.qq.com                   	111.30.138.168
+xy.qq.com                     	111.13.140.89
+shell.qq.com                  	0.0.0.1
+zx.qq.com                     	111.13.140.89
+xy.tc.qq.com                  	111.13.140.89
+gs.qq.com                     	0.0.0.1
+cb.qq.com                     	219.133.60.197
+sales.qq.com                  	111.13.140.91
+xt.qq.com                     	111.30.137.109
+museum.qq.com                 	0.0.0.1
+mj.qq.com                     	111.13.140.89
+jump.qq.com                   	111.30.135.146, 111.30.135.152
+oma.qq.com                    	111.30.135.176
+xy.tcdn.qq.com                	111.13.140.89
+speed.qq.com                  	111.13.140.89
+soso.qq.com                   	0.0.0.1
+mm.qq.com                     	120.204.10.176
+touch.qq.com                  	120.204.10.176
+sy.qq.com                     	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+nt.qq.com                     	182.254.57.12
+wiki.qq.com                   	0.0.0.1
+lady.qq.com                   	111.30.132.101
+2010.qq.com                   	111.30.144.71
+ptlogin4.qq.com               	111.30.135.146, 111.30.135.152
+xz.qq.com                     	0.0.0.1
+fs.qq.com                     	111.13.140.89
+lv.qq.com                     	0.0.0.1
+an.qq.com                     	0.0.0.1
+lz.qq.com                     	111.13.140.89
+post.qq.com                   	0.0.0.1
+gl.qq.com                     	0.0.0.1
+alert.qq.com                  	0.0.0.1
+gx.qq.com                     	111.30.132.101
+lm.qq.com                     	117.135.175.149
+geo.qq.com                    	0.0.0.1
+dv.qq.com                     	0.0.0.1
+pilot.qq.com                  	183.232.123.163
+job.qq.com                    	219.133.48.42
+time.qq.com                   	111.30.144.71
+123.qq.com                    	111.30.132.101
+image.qq.com                  	111.30.144.86, 111.30.144.87
+hope.qq.com                   	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+no.qq.com                     	121.51.131.206
+oa.qq.com                     	0.0.0.1
+survey.qq.com                 	0.0.0.1
+ssl.qq.com                    	121.51.141.126
+pms.qq.com                    	111.30.144.18
+rtx.qq.com                    	183.232.93.201
+cj.qq.com                     	182.254.106.26
+wh.qq.com                     	117.135.169.81
+origin.qq.com                 	117.135.172.195
+ty.qq.com                     	111.13.140.89
+cube.qq.com                   	0.0.0.1
+platform.cms.qq.com           	111.30.137.109
+fang.qq.com                   	120.204.10.176
+zg.qq.com                     	111.13.140.89
+xj.qq.com                     	111.13.140.89
+aoma.qq.com                   	111.30.135.176
+fy.qq.com                     	0.0.0.1
+rainbow.qq.com                	0.0.0.1
+tianmei.qq.com.cloud.tc.qq.com	111.13.140.89
+vs.qq.com                     	111.30.144.71
+watch.qq.com                  	0.0.0.1
+zg.tc.qq.com                  	111.13.140.89
+du.qq.com                     	0.0.0.1
+gj.qq.com                     	111.30.137.24, 111.30.144.106
+fire.qq.com                   	111.13.140.89
+tips.qq.com                   	140.207.69.85
+action.qq.com                 	0.0.0.1
+wsj.qq.com                    	0.0.0.1
+kc.qq.com                     	111.30.137.24, 111.30.144.106
+magic.qq.com                  	111.30.144.124
+idea.qq.com                   	111.13.38.112
+yx.qq.com                     	111.30.144.86, 111.30.144.87
+yw.qq.com                     	111.13.140.89
+dmc.qq.com                    	14.17.32.188
+note.qq.com                   	0.0.0.1
+hawk.qq.com                   	0.0.0.1
+lq.qq.com                     	0.0.0.1
+vip2.qq.com                   	183.232.91.110
+exp.qq.com                    	182.254.4.235, 182.254.78.33
+rx.qq.com                     	0.0.0.1
+etest.qq.com                  	100.113.10.33
+tango.qq.com                  	0.0.0.1
+jiaju.qq.com                  	111.30.144.71
+amc.qq.com                    	0.0.0.1
+log.ac.qq.com                 	183.192.196.226
+api.ac.qq.com                 	117.135.172.142
+test.ac.qq.com                	101.227.154.253
+www.cb.qq.com                 	0.0.0.1
+api.cd.qq.com                 	183.61.56.28
+3g.cd.qq.com                  	0.0.0.1
+m.cb.qq.com                   	121.51.131.238, 121.51.18.113, 121.51.44.114
+wx.cd.qq.com                  	117.175.89.175
+api.city.qq.com               	183.61.56.28
+bbs.cd.qq.com                 	0.0.0.1
+bbs.gj.qq.com                 	111.30.144.86, 111.30.144.87
+bbs.guanjia.qq.com            	111.30.144.86, 111.30.144.87
+bug.gj.qq.com                 	111.30.137.24, 111.30.144.106
+c.gj.qq.com                   	111.30.137.24, 111.30.144.106
+download.music.tc.qq.com      	0.0.0.1
+vip.music.tcdn.qq.com         	111.13.140.90, 111.47.223.228, 111.47.223.240, 111.47.224.182, 111.6.186.220, 111.6.189.183, 111.6.189.186, 111.62.242.61, 111.62.249.112, 111.62.249.114
+d.sj.qq.com                   	120.204.10.176
+download.sj.qq.com            	111.62.242.28, 111.62.249.26
+sj.tc.qq.com                  	111.62.242.28, 111.62.249.26
+bbs.ty.qq.com                 	121.51.141.113
+shop.qq.com                   	111.13.140.91
+open.qq.com                   	120.198.199.168
+mall.qq.com.cloud.tc.qq.com   	111.13.140.91
+ar.qq.com                     	111.30.144.17
+sms.qq.com                    	183.3.225.67
+p21.tcdn.qq.com               	111.13.140.91
+dns.qq.com                    	119.29.29.229
+gm.qq.com                     	0.0.0.1
+007.qq.com                    	121.51.139.212
+ipod.qq.com                   	0.0.0.1
+victor.qq.com                 	117.135.169.80
+h5.qq.com                     	117.135.175.159
+domain.qq.com                 	0.0.0.1
+ads.qq.com                    	183.232.95.188
+member.qq.com                 	183.232.91.110
+api.qq.com                    	111.30.159.165
+sps.qq.com                    	0.0.0.1
+forwardsh.qq.com              	117.135.169.80
+img1.qq.com                   	111.13.140.89
+download.qq.com               	111.30.135.146, 111.30.135.152
+pc.qq.com                     	111.30.137.24, 111.30.144.106
+ja.qq.com                     	0.0.0.1
+community.qq.com              	0.0.0.1
+ro.qq.com                     	111.13.140.89
+pro.qq.com                    	0.0.0.1
+uu.qq.com                     	0.0.0.1
+excel.qq.com                  	0.0.0.1
+ts1.qq.com                    	183.232.84.48
+gd.qq.com                     	111.30.144.71
+https.qq.com                  	111.30.144.71
+proxy.qq.com                  	111.30.132.101
+aq.qq.com                     	183.192.202.175
+http.qq.com                   	111.30.132.101
+gy.qq.com                     	111.30.144.71
+pics.qq.com                   	111.30.132.101
+read.qq.com                   	117.135.172.195
+storage.qq.com                	0.0.0.1
+japan.qq.com                  	0.0.0.1
+fw.qq.com                     	182.254.51.118
+hsbc.qq.com                   	0.0.0.1
+ke.qq.com                     	183.232.96.104
+hk.qq.com                     	203.205.140.114, 203.205.140.29
+ebook.qq.com                  	117.135.172.195
+zj.qq.com                     	111.30.144.71
+dw.qq.com                     	111.30.137.109
+aa.qq.com                     	111.13.140.89
+cz.qq.com                     	0.0.0.1
+plus.qq.com                   	111.30.137.24, 111.30.144.106
+developers.qq.com             	0.0.0.1
+bak.qq.com                    	120.204.10.176
+aa.tc.qq.com                  	111.13.140.89
+yc.qq.com                     	117.135.172.195
+3g.qq.com                     	120.204.10.176
+baike.qq.com                  	111.30.137.24, 111.30.144.106
+dc.qq.com                     	121.51.132.55
+college.qq.com                	0.0.0.1
+designer.qq.com               	182.254.4.235, 182.254.78.33
+jh.qq.com                     	0.0.0.1
+aa.tcdn.qq.com                	111.13.140.89
+style.qq.com                  	111.13.140.91
+y.qq.com                      	111.13.140.90, 111.47.223.228, 111.47.223.240, 111.47.224.182, 111.6.186.220, 111.6.189.183, 111.6.189.186, 111.62.242.61, 111.62.249.112, 111.62.249.114
+lt.qq.com                     	111.13.140.89
+x2.tc.qq.com                  	111.13.140.89
+tw.qq.com                     	103.7.28.160
+bm.qq.com                     	123.206.40.39
+file.qq.com                   	120.204.10.176
+register.qq.com               	183.232.126.109
+wall.qq.com                   	0.0.0.1
+mx4.qq.com                    	0.0.0.1
+xs.qq.com                     	0.0.0.1
+yd.qq.com                     	117.184.242.194, 120.204.16.240
+platform.cms.qq.com           	111.30.137.109
+dsp.qq.com                    	0.0.0.1
+mo.qq.com                     	0.0.0.1
+qr.qq.com                     	0.0.0.1
+mini.qq.com                   	111.30.144.71
+real.qq.com                   	0.0.0.1
+bug.qq.com                    	120.204.10.176
+on.qq.com                     	0.0.0.1
+pop.qq.com                    	183.232.121.188, 183.232.98.195
+pim.qq.com                    	111.30.144.86, 111.30.144.87
+connect.qq.com                	121.51.8.40
+travel.qq.com                 	0.0.0.1
+cq.qq.com                     	111.30.144.71
+rose.qq.com                   	0.0.0.1
+preview.qq.com                	0.0.0.1
+ask.qq.com                    	0.0.0.1
+china.qq.com                  	111.30.144.71
+sx.qq.com                     	0.0.0.1
+mn.qq.com                     	111.13.140.89
+mil.qq.com                    	111.30.144.71
+qm.qq.com                     	121.51.142.15
+esc.qq.com                    	172.23.135.6
+xian.qq.com                   	111.30.144.71
+jy.qq.com                     	120.204.10.176
+sss.qq.com                    	0.0.0.1
+op.qq.com                     	0.0.0.1
+style.tc.qq.com               	111.13.140.91
+stone.qq.com                  	0.0.0.1
+teach.qq.com                  	0.0.0.1
+form.qq.com                   	0.0.0.1
+insight.qq.com                	0.0.0.1
+horizon.qq.com                	182.254.4.235, 182.254.78.33
+xm.qq.com                     	111.30.144.71
+oasis.qq.com                  	0.0.0.1
+ol.qq.com                     	0.0.0.1
+mf.qq.com                     	111.13.140.89
+stars.qq.com                  	111.30.132.101
+moa.qq.com                    	0.0.0.1
+coop.qq.com                   	182.254.50.18
+uin.qq.com                    	0.0.0.1
+tmp.qq.com                    	182.254.106.35
+oc.qq.com                     	0.0.0.1
+ios.qq.com                    	111.30.159.165
+xl.qq.com                     	111.13.140.89
+story.qq.com                  	121.51.36.45
+m4.qq.com                     	111.30.144.86, 111.30.144.87
+tea.qq.com                    	121.51.132.56
+ym.qq.com                     	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+trans.qq.com                  	111.13.140.89
+urban.qq.com                  	120.198.203.198
+zq.qq.com                     	0.0.0.1
+1111.qq.com                   	0.0.0.1
+21.qq.com                     	0.0.0.1
+qx.qq.com                     	0.0.0.1
+test.aq.qq.com                	183.61.51.119
+bbs.gd.qq.com                 	0.0.0.1
+image.mall.qq.com.cloud.tc.qq.com	111.13.140.89
+m.mall.qq.com.cloud.tc.qq.com 	111.13.140.89
+www.shop.qq.com               	111.13.140.91
+www.style.qq.com              	111.13.140.91
+bbs.xian.qq.com               	0.0.0.1
+api.xian.qq.com               	183.61.56.28
+vote.xian.qq.com              	183.232.98.147
+bl.qq.com                     	111.13.140.89
+go.qq.com                     	111.13.140.89
+om.qq.com                     	121.51.130.170
+m.qq.com                      	111.30.137.24, 111.30.144.106
+personal.qq.com               	0.0.0.1
+d6.qq.com                     	0.0.0.1
+love.qq.com                   	111.30.155.101
+x2.tc.qq.com                  	111.13.140.89
+go.qq.com.cloud.tc.qq.com     	111.13.140.89
+fly.qq.com                    	0.0.0.1
+ta.qq.com                     	183.232.95.229
+biz.qq.com                    	183.232.91.113
+seo.qq.com                    	0.0.0.1
+static.qq.com                 	0.0.0.1
+tourism.qq.com                	139.199.92.101
+gw.qq.com                     	0.0.0.1
+1.qq.com                      	121.51.77.139
+star.qq.com                   	111.30.132.101
+ae.qq.com                     	0.0.0.1
+sports.qq.com                 	111.30.144.71
+mp2.qq.com                    	0.0.0.1
+qing.qq.com                   	0.0.0.1
+proxy.om.qq.com               	121.51.130.170
+so.qq.com                     	0.0.0.1
+mt.qq.com                     	0.0.0.1
+http.qq.com                   	111.30.132.101
+k.qq.com                      	111.13.140.89
+404.qq.com                    	0.0.0.1
+dl.qq.com                     	111.19.218.41, 111.20.242.41, 111.26.148.41, 111.26.151.41, 111.29.17.41, 111.32.132.41, 111.40.170.41, 111.43.185.41, 111.44.250.41, 111.48.48.41
+mga.qq.com                    	121.51.130.167
+delta.qq.com                  	0.0.0.1
+bs.qq.com                     	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+qqhaoma.qq.com                	121.51.131.206
+2011.qq.com                   	111.30.144.71
+labs.qq.com                   	0.0.0.1
+5.qq.com                      	0.0.0.1
+nissan.qq.com                 	0.0.0.1
+abc.qq.com                    	111.13.34.176
+athena.qq.com                 	111.230.119.95
+dz.qq.com                     	111.13.140.89
+web.gw.qq.com.cloud.tc.qq.com 	111.13.140.89
+cr.qq.com                     	111.13.140.89
+l.qq.com                      	111.30.144.37
+flash.qq.com                  	111.30.132.101
+as.qq.com                     	111.13.140.89
+nm.qq.com                     	111.30.132.101
+ny.qq.com                     	111.13.140.89
+17.qq.com                     	121.51.141.112
+mq.qq.com                     	182.254.106.26
+gg.qq.com                     	0.0.0.1
+calendar.qq.com               	111.30.137.24, 111.30.144.106
+ec.qq.com                     	111.13.38.107
+mh.qq.com                     	111.13.140.89
+mx1.qq.com                    	112.60.0.200, 183.232.93.177
+vm.qq.com                     	183.192.202.186
+ch.qq.com                     	0.0.0.1
+moon.qq.com                   	0.0.0.1
+film.qq.com                   	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42
+film.tc.qq.com                	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42, 183.201.224.37, 183.201.224.38
+film.tcdn.qq.com              	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42
+audit.qq.com                  	0.0.0.1
+io.qq.com                     	0.0.0.1
+recruit.qq.com                	182.254.50.48
+reader.qq.com                 	117.184.242.194, 120.204.16.240
+planet.qq.com                 	111.30.132.101
+tool.qq.com                   	0.0.0.1
+re.qq.com                     	111.30.144.71
+app1.qq.com                   	0.0.0.1
+volunteer.qq.com              	120.198.199.200
+kh.qq.com                     	111.13.140.89
+jl.qq.com                     	111.30.132.101
+qiye.qq.com                   	182.254.50.48
+link.qq.com                   	0.0.0.1
+wow.qq.com                    	0.0.0.1
+p1.tcdn.qq.com                	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42, 183.201.224.37, 183.201.224.38
+ssp.qq.com                    	0.0.0.1
+py.qq.com                     	183.232.93.201
+kp.qq.com                     	111.30.137.24, 111.30.144.106
+match.qq.com                  	111.30.132.35
+tel.qq.com                    	120.204.10.176
+editor.qq.com                 	121.51.141.109
+pin.qq.com                    	111.13.140.89
+player.qq.com                 	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42, 183.201.224.37, 183.201.224.38
+tf.qq.com                     	0.0.0.1
+3g.qq.com                     	120.204.10.176
+tp.qq.com                     	121.51.141.112
+df.qq.com                     	0.0.0.1
+events.qq.com                 	0.0.0.1
+player.qq.com.cloud.tc.qq.com 	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42
+hub.qq.com                    	0.0.0.1
+fashion.qq.com                	111.30.144.71
+apex.qq.com                   	0.0.0.1
+whois.qq.com                  	0.0.0.1
+pd.qq.com                     	111.30.159.209
+fi.qq.com                     	120.204.10.176
+lr.qq.com                     	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+i.weread.qq.com               	117.184.242.194, 120.204.16.240
+nw.qq.com                     	0.0.0.1
+tb.qq.com                     	58.250.135.154
+ep.qq.com                     	111.13.140.89
+jt.qq.com                     	0.0.0.1
+jg.qq.com                     	183.232.88.153
+oracle.qq.com                 	120.204.10.176
+imap.qq.com                   	183.232.121.188, 183.232.98.195
+weixin.qq.com                 	183.192.195.143, 183.192.195.147
+hx.qq.com                     	111.13.140.89
+wt.qq.com                     	111.13.140.89
+list.qq.com                   	0.0.0.1
+hb.qq.com                     	111.30.144.71
+hx.qq.com.cloud.tc.qq.com     	111.13.140.89
+cloud.qq.com                  	119.29.42.201, 119.29.47.192
+dns1.qq.com                   	219.133.41.245
+meet.qq.com                   	120.204.10.176
+webproxy.qq.com               	120.198.199.168, 183.232.94.102
+css.qq.com                    	0.0.0.1
+skin.qq.com                   	0.0.0.1
+face.qq.com                   	163.177.90.110
+epic.qq.com                   	111.13.140.89
+kid.qq.com                    	111.30.144.71
+ea.qq.com                     	0.0.0.1
+att.qq.com                    	0.0.0.1
+ikan.qq.com.cloud.tc.qq.com   	111.13.140.89
+circle.qq.com                 	111.30.159.165
+mark.qq.com                   	183.232.89.21
+ics.qq.com                    	0.0.0.1
+dance.qq.com                  	111.13.140.89
+aurora.qq.com                 	0.0.0.1
+tq.qq.com                     	111.30.137.24, 111.30.144.106
+widget.qq.com                 	111.30.159.165
+gongyi.qq.com                 	111.30.144.71
+water.qq.com                  	0.0.0.1
+xg.qq.com                     	121.51.141.63
+panda.qq.com                  	121.51.131.215
+51.qq.com                     	0.0.0.1
+yule.qq.com                   	111.30.132.101
+jb.qq.com                     	0.0.0.1
+xin.qq.com                    	120.204.10.176
+m5.qq.com                     	111.30.144.86, 111.30.144.87
+lian.qq.com                   	0.0.0.1
+europa.qq.com                 	0.0.0.1
+lottery.qq.com                	10.136.12.100, 10.136.12.103
+kaoshi.qq.com                 	0.0.0.1
+xq.qq.com                     	0.0.0.1
+oauth.qq.com                  	0.0.0.1
+hospital.qq.com               	111.30.137.24, 111.30.144.106
+m.film.qq.com                 	0.0.0.1
+vip.film.qq.com               	111.13.140.91
+vip.film.qq.com.cloud.tc.qq.com	111.13.140.91
+p21.tcdn.qq.com               	111.13.140.91
+api.go.qq.com                 	0.0.0.1
+app.go.qq.com                 	183.232.88.155
+www.go.qq.com                 	111.13.140.89
+act.go.qq.com                 	183.232.88.155
+auth.om.qq.com                	121.51.130.170
+upload.om.qq.com              	121.51.130.170
+update.player.qq.com          	111.30.132.101
+upload.player.qq.com          	111.30.132.101
+www.qqhaoma.qq.com            	121.51.131.206
+data.re.qq.com                	139.199.135.157
+dl.reader.qq.com              	111.30.137.121
+admin.sports.qq.com           	118.25.167.157
+app.sports.qq.com             	111.30.144.69
+static.reader.qq.com          	111.13.140.89
+s3.sports.qq.com              	221.180.219.196, 221.180.219.207
+t.sports.qq.com               	111.161.111.30
+www.sports.qq.com             	111.30.132.101
+apps.sports.qq.com            	111.30.132.101
+data.sports.qq.com            	120.198.199.228
+live.sports.qq.com            	221.180.219.196, 221.180.219.207
+stats.sports.qq.com           	121.51.139.213
+upload.sports.qq.com          	14.17.44.198
+wx.volunteer.qq.com           	183.232.94.103
+tv.qq.com                     	111.13.140.89
+science.qq.com                	111.30.132.101
+cc.qq.com                     	111.13.140.89
+files.qq.com                  	120.204.10.176
+translate.qq.com              	111.30.144.54
+th.qq.com                     	111.30.137.24, 111.30.144.106
+moto.qq.com                   	120.204.10.176
+3g.qq.com                     	120.204.10.176
+d.qq.com                      	115.159.101.226
+audiodetect.browser.qq.com    	111.30.144.54
+tv.qq.com.cloud.tc.qq.com     	111.13.140.89
+http.qq.com                   	111.30.132.101
+web.gw.qq.com.cloud.tc.qq.com 	111.13.140.89
+ap.qq.com                     	183.192.202.175
+n.qq.com                      	0.0.0.1
+free.qq.com                   	0.0.0.1
+tu.qq.com                     	121.51.130.163
+data.qq.com                   	183.232.95.48
+hd.qq.com                     	183.232.88.239
+king.qq.com                   	111.13.38.117
+root.qq.com                   	111.30.144.86, 111.30.144.87
+dcf.qq.com                    	111.30.137.24, 111.30.144.106
+img.qq.com                    	0.0.0.1
+dj.qq.com                     	111.13.140.89
+cdn.qq.com                    	0.0.0.1
+video.qq.com                  	111.30.144.80
+union.qq.com                  	120.198.201.237
+rr.qq.com                     	0.0.0.1
+fun.qq.com                    	111.30.138.168
+x2.tc.qq.com                  	111.13.140.89
+index.qq.com                  	0.0.0.1
+monster.qq.com                	0.0.0.1
+ok.qq.com                     	117.135.169.52
+yuedu.qq.com                  	0.0.0.1
+az.qq.com                     	0.0.0.1
+rpg.qq.com                    	111.13.140.89
+wsop.qq.com                   	0.0.0.1
+w.qq.com                      	121.51.142.15
+popo.qq.com                   	0.0.0.1
+conf.qq.com                   	0.0.0.1
+supplier.qq.com               	121.51.142.32
+bj.qq.com                     	111.30.144.71
+email.qq.com                  	183.232.103.164, 183.232.121.178, 183.232.94.122, 183.232.98.190
+nc.qq.com                     	117.135.175.159
+cv.qq.com                     	0.0.0.1
+fk.qq.com                     	121.51.131.150, 121.51.8.49
+source.qq.com                 	183.192.196.229
+gf.qq.com                     	0.0.0.1
+ops.qq.com                    	0.0.0.1
+ajax.qq.com                   	120.204.10.176
+np.qq.com                     	0.0.0.1
+soho.qq.com                   	111.30.137.24, 111.30.144.106
+school.qq.com                 	117.144.245.218
+green.qq.com                  	111.30.132.101
+dt.qq.com                     	111.30.132.41
+xh.qq.com                     	117.135.169.35
+co.qq.com                     	0.0.0.1
+hot.qq.com                    	111.30.137.24, 111.30.144.106
+acc.qq.com                    	121.51.131.14, 121.51.142.62
+security.qq.com               	183.192.202.175
+gov.qq.com                    	0.0.0.1
+box.qq.com                    	111.13.140.89
+at.qq.com                     	111.30.137.24, 111.30.144.106
+mail.qq.com                   	183.232.103.164, 183.232.121.178, 183.232.94.122, 183.232.98.190
+lb.qq.com                     	0.0.0.1
+pub.qq.com                    	0.0.0.1
+sandbox.api.unipay.qq.com     	121.51.131.150, 121.51.8.49
+gps.qq.com                    	0.0.0.1
+boss.qq.com                   	0.0.0.1
+af.qq.com                     	111.13.140.89
+feedback.qq.com               	111.30.137.24, 111.30.144.106
+jc.qq.com                     	0.0.0.1
+wns.qq.com                    	111.30.132.41
+pengyou.qq.com                	117.144.245.218
+qc.qq.com                     	0.0.0.1
+zh.qq.com                     	0.0.0.1
+ws.qq.com                     	220.194.95.185
+mk.qq.com                     	0.0.0.1
+et.qq.com                     	0.0.0.1
+ls.qq.com                     	0.0.0.1
+jz.qq.com                     	121.51.142.84
+qd.qq.com                     	0.0.0.1
+mx.qq.com                     	0.0.0.1
+ft.qq.com                     	0.0.0.1
+mmm.qq.com                    	0.0.0.1
+trip.qq.com                   	0.0.0.1
+ns3.qq.com                    	112.60.1.69, 183.192.201.116
+palm.qq.com                   	111.30.159.165
+yes.qq.com                    	0.0.0.1
+mir.qq.com                    	111.13.140.89
+mir.qq.com.cloud.tc.qq.com    	111.13.140.89
+wg.qq.com                     	0.0.0.1
+amp.qq.com                    	0.0.0.1
+xb.qq.com                     	0.0.0.1
+j.qq.com                      	111.13.140.89
+broadcast.qq.com              	0.0.0.1
+we.qq.com                     	120.198.203.208
+ld.qq.com                     	0.0.0.1
+cps.qq.com                    	121.51.36.41, 183.192.199.14
+notice.qq.com                 	182.254.106.26
+un.qq.com                     	221.180.219.196, 221.180.219.207
+retail.qq.com                 	111.30.137.24, 111.30.144.106
+dream.qq.com                  	111.30.132.101
+pad.qq.com                    	0.0.0.1
+sign.qq.com                   	0.0.0.1
+bobo.qq.com                   	183.192.196.27
+im2.qq.com                    	111.30.159.165
+srv.qq.com                    	0.0.0.1
+ck.qq.com                     	0.0.0.1
+wo.qq.com                     	0.0.0.1
+midas.qq.com                  	183.232.119.227, 183.232.125.243
+d5.qq.com                     	0.0.0.1
+forest.qq.com                 	0.0.0.1
+wx2.qq.com                    	120.198.201.145, 183.232.103.146
+qh.qq.com                     	0.0.0.1
+ad1.qq.com                    	0.0.0.1
+v5.qq.com                     	111.30.137.109
+see.qq.com                    	0.0.0.1
+joy.qq.com                    	111.30.144.71
+epc.qq.com                    	0.0.0.1
+cod.qq.com                    	111.13.140.89
+xn.qq.com                     	0.0.0.1
+vip1.qq.com                   	183.232.91.110
+encore.qq.com                 	0.0.0.1
+super.qq.com                  	183.232.98.193
+c.amp.qq.com                  	0.0.0.1
+sjb.qq.com                    	121.51.130.194
+app1.qq.com                   	0.0.0.1
+c4.qq.com                     	0.0.0.1
+shouji.qq.com                 	111.30.132.101
+t.acc.qq.com                  	121.51.130.220
+image.mir.qq.com              	111.13.140.89
+auto.qq.com                   	111.30.144.71
+b.qq.com                      	183.232.91.113
+business.qq.com               	111.30.144.71
+https.qq.com                  	111.30.144.71
+cge.qq.com                    	183.192.196.175
+software.qq.com               	0.0.0.1
+demo.qq.com                   	0.0.0.1
+group.qq.com                  	120.198.199.51
+live.qq.com                   	221.180.219.196, 221.180.219.207
+t.qq.com                      	111.30.159.209
+car.qq.com                    	0.0.0.1
+jobs.qq.com                   	182.254.50.48
+3d.qq.com                     	111.13.140.89
+ee.qq.com                     	0.0.0.1
+apple.qq.com                  	182.254.33.38
+happy.qq.com                  	183.232.98.145
+app.happy.qq.com              	183.232.98.145
+jp.qq.com                     	111.30.144.14
+nl.qq.com                     	111.13.38.117
+pr.qq.com                     	0.0.0.1
+mtv.qq.com                    	0.0.0.1
+ftx.qq.com                    	0.0.0.1
+hn.qq.com                     	111.30.144.71
+sec.qq.com                    	0.0.0.1
+cm.qq.com                     	0.0.0.1
+fm.qq.com                     	111.13.34.21
+webdev.qq.com                 	120.204.10.176
+nd.qq.com                     	117.144.244.102
+nr.qq.com                     	111.13.140.91
+cert.qq.com                   	0.0.0.1
+rc.qq.com                     	111.13.140.89
+sl.qq.com                     	111.13.140.89
+antivirus.qq.com              	0.0.0.1
+ak.qq.com                     	0.0.0.1
+ly.qq.com                     	111.30.144.71
+ks.qq.com                     	0.0.0.1
+ent.qq.com                    	111.30.144.71
+zb.qq.com                     	111.13.140.91
+style.tcdn.qq.com             	111.13.140.91
+p21.tc.qq.com                 	111.13.140.91
+da.qq.com                     	111.13.140.89
+dp.qq.com                     	111.13.140.89
+rp.qq.com                     	0.0.0.1
+zt.qq.com                     	111.13.140.89
+football.qq.com               	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+zy.qq.com                     	0.0.0.1
+football.qq.com.cloud.tc.qq.com	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+dp.qq.com.cloud.tc.qq.com     	111.13.140.89
+dl1023.tcdn.qq.com            	112.25.58.224, 223.111.108.238, 223.111.153.185, 223.111.153.231, 223.111.158.51, 223.111.97.224
+4g.qq.com                     	120.204.10.176
+zt.qq.com.cloud.tc.qq.com     	111.13.140.89
+888.qq.com                    	120.204.23.180, 121.51.36.126
+jf.qq.com                     	111.13.140.89
+x2.tcdn.qq.com                	111.13.140.89
+fusion.qq.com                 	120.198.203.185
+dg.qq.com                     	0.0.0.1
+webapp.qq.com                 	111.30.132.101
+jf.tc.qq.com                  	111.13.140.89
+mg.qq.com                     	111.13.140.91
+wei.qq.com                    	121.51.131.47
+rc.qq.com.cloud.tc.qq.com     	111.13.140.89
+ln.qq.com                     	111.30.144.71
+pet.qq.com                    	111.13.140.89
+jf.tcdn.qq.com                	111.13.140.89
+enterprise.qq.com             	183.232.91.113
+http.qq.com                   	111.30.132.101
+comic.qq.com                  	117.135.172.142
+pet.tc.qq.com                 	111.13.140.89
+work.qq.com                   	182.254.50.48
+compass.qq.com                	183.232.88.153
+monitoring.qq.com             	0.0.0.1
+asset.qq.com                  	10.125.54.15
+ping.qq.com                   	0.0.0.1
+drive.qq.com                  	0.0.0.1
+fast.qq.com                   	0.0.0.1
+xc.qq.com                     	111.30.144.86, 111.30.144.87
+p21.tcdn.qq.com               	111.13.140.91
+ams.qq.com                    	111.13.140.89
+brand.qq.com                  	0.0.0.1
+jk.qq.com                     	0.0.0.1
+picture.qq.com                	120.204.10.176
+jn.qq.com                     	111.30.132.101
+hero.qq.com                   	0.0.0.1
+ao.qq.com                     	0.0.0.1
+rl.qq.com                     	111.13.140.89
+114.qq.com                    	182.254.106.31
+peixun.qq.com                 	0.0.0.1
+yn.qq.com                     	111.30.132.101
+ib.qq.com                     	111.13.140.89
+c2.qq.com                     	111.13.140.89
+hl.qq.com                     	111.13.140.89
+shenyang.qq.com               	111.30.137.24, 111.30.144.106
+weibo.qq.com                  	111.30.159.209
+snow.qq.com                   	0.0.0.1
+garden.qq.com                 	0.0.0.1
+lining.qq.com                 	0.0.0.1
+todo.qq.com                   	0.0.0.1
+dalian.qq.com                 	111.30.144.71
+bao.qq.com                    	183.192.202.187
+kd.qq.com                     	121.51.142.64
+intel.qq.com                  	0.0.0.1
+vnet.qq.com                   	0.0.0.1
+22.qq.com                     	0.0.0.1
+jipiao.qq.com                 	0.0.0.1
+amber.qq.com                  	0.0.0.1
+l2.qq.com                     	111.30.144.37
+mgw.qq.com                    	0.0.0.1
+yb.qq.com                     	111.30.137.24, 111.30.144.106
+m.888.qq.com                  	121.51.36.126, 121.51.67.155
+app.auto.qq.com               	0.0.0.1
+3g.auto.qq.com                	111.30.132.101
+admin.auto.qq.com             	0.0.0.1
+activity.auto.qq.com          	183.232.93.175
+db.auto.qq.com                	183.232.95.239
+forum.auto.qq.com             	111.30.132.101
+i.auto.qq.com                 	0.0.0.1
+img.auto.qq.com               	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42
+image.auto.qq.com             	183.232.93.175
+img.auto.qq.com.cloud.tc.qq.com	111.13.140.35, 111.13.140.36, 111.13.140.37, 111.13.140.38, 111.13.140.39, 111.13.140.42
+app1.qq.com                   	0.0.0.1
+fans.qq.com                   	0.0.0.1
+cgi.data.auto.qq.com          	183.232.93.175
+m.auto.qq.com                 	0.0.0.1
+bbs.fans.qq.com               	0.0.0.1
+search.group.qq.com           	0.0.0.1
+img.happy.qq.com              	111.13.140.89
+img.group.qq.com              	0.0.0.1
+imghappy.tc.qq.com            	111.13.140.89
+api.hn.qq.com                 	183.61.56.28
+api.city.qq.com               	183.61.56.28
+city.cd.qq.com                	183.61.56.28
+app.m.auto.qq.com             	0.0.0.1
+t.app.m.auto.qq.com           	183.3.235.80
+res.rl.qq.com                 	111.13.140.89
+res.rl.qq.com.cloud.tc.qq.com 	111.13.140.89
+app.t.qq.com                  	111.30.132.101
+apps.t.qq.com                 	111.30.159.209
+3g.t.qq.com                   	0.0.0.1
+search.t.qq.com               	111.30.159.209
+w.t.qq.com                    	111.30.159.209
+wap.t.qq.com                  	111.30.159.209
+api.t.qq.com                  	117.184.242.181
+demo.t.qq.com                 	10.133.42.26
+e.t.qq.com                    	111.30.159.209
+proxy.t.qq.com                	111.30.159.209
+m.api.t.qq.com                	121.51.142.15
+weixin.t.qq.com               	111.30.132.101
+image.zt.qq.com.cloud.tc.qq.com	111.13.140.91
